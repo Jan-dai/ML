@@ -12,6 +12,8 @@ dependencies = [
     "pandas>=2.2.3",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
+    "setuptools>=80.9.0",
+    "setuptools-scm>=8.3.1",
     "yellowbrick>=1.5",
 ]
 
